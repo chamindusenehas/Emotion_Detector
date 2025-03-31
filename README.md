@@ -18,4 +18,4 @@ Matplotlib (optional)
 
 
 <h4><i>Install the required dependencies:</i></h4>
-<p style={color:blue;} >pip install -r requirements.txt</p>
+<p><i><u>pip install -r requirements.txt</u></i></p>
